@@ -9,14 +9,14 @@ The application displays an academic action research study titled:
 
 Instead of merely providing a static document, this project leverages Flutter to create an immersive "Digital Dissertation Viewer." It features a multi-chapter navigation sidebar, beautiful typography, embedded interactive data tables, and an animated bar graph comparing the Pre-Test and Post-Test scores of the students. 
 
-For standard printing and submission, the raw academic text is also provided in the repository root as `DISSERTATION.md`.
+For standard printing and submission, the raw academic text is available in `DISSERTATION.md`. I have also included a `DISSERTATION.html` file—simply right-click this file and select **Open with Microsoft Word** to have it instantly converted into a fully formatted Word document with all tables and headings intact.
 
 ## Features
 
 *   **Interactive Chapter Navigation:** A responsive sidebar (drawer on mobile) to seamlessly switch between the five chapters.
 *   **Rich Text Rendering:** Elegantly styled academic text formatting.
 *   **Data Visualization:** Interactive bar graphs powered by `fl_chart` to visualize educational research data.
-*   **Printable Markdown:** The full action research text is available in `DISSERTATION.md`.
+*   **Printable Output:** The full action research text is available in `DISSERTATION.md` and a Word-ready `DISSERTATION.html`.
 
 ## Tech Stack
 
